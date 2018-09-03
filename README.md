@@ -1,1 +1,1 @@
-# An interactive dashboard using Plotly charts is built to explore specific health studies data.
+An interactive dashboard using Plotly is built to explore specific health studies data.
